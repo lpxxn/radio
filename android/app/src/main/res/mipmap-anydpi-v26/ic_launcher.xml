@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 系统负责裁成圆形/圆角矩形；前景和背景分层，避免白边和二次圆角。 -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_radio_background" />
+    <foreground android:drawable="@drawable/ic_radio_foreground" />
+</adaptive-icon>

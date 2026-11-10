@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cnr-1",
+    "name": "中国之声",
+    "region": "全国",
+    "category": "新闻",
+    "frequency": "106.1",
+    "urls": [
+      "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+      "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-2",
+    "name": "经济之声",
+    "region": "全国",
+    "category": "财经",
+    "frequency": "96.6",
+    "urls": [
+      "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
+      "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-3",
+    "name": "音乐之声",
+    "region": "全国",
+    "category": "音乐",
+    "frequency": "90.0",
+    "urls": [
+      "https://ngcdn003.cnr.cn/live/yyzs/index.m3u8",
+      "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-4",
+    "name": "经典音乐广播",
+    "region": "全国",
+    "category": "音乐",
+    "frequency": "101.8",
+    "urls": [
+      "https://ngcdn004.cnr.cn/live/dszs/index.m3u8",
+      "http://ngcdn004.cnr.cn/live/dszs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-5",
+    "name": "中华之声",
+    "region": "全国",
+    "category": "综合",
+    "frequency": "102.3",
+    "urls": [
+      "https://ngcdn005.cnr.cn/live/zhzs/index.m3u8",
+      "http://ngcdn005.cnr.cn/live/zhzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-6",
+    "name": "神州之声",
+    "region": "全国",
+    "category": "综合",
+    "frequency": "--",
+    "urls": [
+      "https://ngcdn006.cnr.cn/live/szzs/index.m3u8",
+      "http://ngcdn006.cnr.cn/live/szzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-7",
+    "name": "大湾区之声",
+    "region": "广东",
+    "category": "综合",
+    "frequency": "101.2",
+    "urls": [
+      "https://ngcdn007.cnr.cn/live/hxzs/index.m3u8",
+      "http://ngcdn007.cnr.cn/live/hxzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-9",
+    "name": "文艺之声",
+    "region": "全国",
+    "category": "文艺",
+    "frequency": "106.6",
+    "urls": [
+      "https://ngcdn009.cnr.cn/live/wyzs/index.m3u8",
+      "http://ngcdn009.cnr.cn/live/wyzs/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  },
+  {
+    "id": "cnr-15",
+    "name": "中国交通广播",
+    "region": "全国",
+    "category": "交通",
+    "frequency": "99.6",
+    "urls": [
+      "https://ngcdn015.cnr.cn/live/gsgljtgb/index.m3u8",
+      "http://ngcdn015.cnr.cn/live/gsgljtgb/index.m3u8"
+    ],
+    "homepage": "https://www.cnr.cn/"
+  }
+]

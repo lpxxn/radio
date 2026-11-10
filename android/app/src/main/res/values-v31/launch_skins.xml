@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LaunchCoral" parent="LaunchTheme">
+        <item name="android:windowBackground">@color/radio_launch_background</item>
+        <item name="android:windowSplashScreenBackground">@color/radio_launch_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_splash_walnut</item>
+    </style>
+    <style name="LaunchBlue" parent="LaunchTheme">
+        <item name="android:windowBackground">@color/radio_launch_blue</item>
+        <item name="android:windowSplashScreenBackground">@color/radio_launch_blue</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_splash_midnight</item>
+        <item name="android:statusBarColor">@color/radio_launch_blue</item>
+        <item name="android:navigationBarColor">@color/radio_launch_blue</item>
+    </style>
+    <style name="LaunchGreen" parent="LaunchTheme">
+        <item name="android:windowBackground">@color/radio_launch_green</item>
+        <item name="android:windowSplashScreenBackground">@color/radio_launch_green</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_splash_forest</item>
+        <item name="android:statusBarColor">@color/radio_launch_green</item>
+        <item name="android:navigationBarColor">@color/radio_launch_green</item>
+    </style>
+</resources>

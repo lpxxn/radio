@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 名称是系统持久化的契约，升级时不要重命名。 -->
+    <style name="LaunchCoral" parent="LaunchTheme">
+        <item name="android:windowBackground">@drawable/launch_walnut</item>
+    </style>
+    <style name="LaunchBlue" parent="LaunchTheme">
+        <item name="android:windowBackground">@drawable/launch_midnight</item>
+    </style>
+    <style name="LaunchGreen" parent="LaunchTheme">
+        <item name="android:windowBackground">@drawable/launch_forest</item>
+    </style>
+</resources>
